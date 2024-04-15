@@ -19,6 +19,8 @@ func main() {
 	wg.Wait()
 }
 
+// test
+
 func MaxInt(a, b int) int {
 	if a >= b {
 		return a
